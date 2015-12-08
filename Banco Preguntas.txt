@@ -1,0 +1,12 @@
+¿Cuales de los siguientes componentes es considerado hardware?"
+1.Microsoft Windows.
+2.Malware.
+3.Disco Duro.
+4.Internet.
+3
+¿Que componenete no influye en la velocidad de un computador?
+1.Microprocesador.
+2.Disco duro.
+3.Teclado.
+4.Memoria.
+3
